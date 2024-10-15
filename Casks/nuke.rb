@@ -13,7 +13,7 @@ cask "nuke" do
 
     name "Nuke#{version}"
     desc "Node-based compositing application"
-    homepage "https://www.foundry.com/"
+    homepage "https://www.foundry.com/products/nuke"
   
     depends_on macos: ">= :monterey"
 

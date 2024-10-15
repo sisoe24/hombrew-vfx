@@ -4,7 +4,7 @@ This repository contains formulae for VFX software that are not available in the
 
 ## Included software
 
-- [Nuke](https://www.foundry.com/products/nuke)
+- [Nuke15.1v3](https://www.foundry.com/products/nuke)
 
 ## How do I install these formulae?
 
