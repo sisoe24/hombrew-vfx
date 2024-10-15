@@ -11,7 +11,7 @@ cask "nuke" do
         url "https://www.foundry.com/products/download_product?file=Nuke#{version}-mac-arm64.dmg"
     end 
 
-    name "Nuke"
+    name "Nuke#{version}"
     desc "Node-based compositing application"
     homepage "https://www.foundry.com/"
   
