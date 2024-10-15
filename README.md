@@ -2,9 +2,9 @@
 
 This repository contains formulae for VFX software that are not available in the main Homebrew tap.
 
-## Included software
+## Taps
 
-- [Nuke15.1v3](https://www.foundry.com/products/nuke)
+- `nuke` - [Nuke15.1v3](https://www.foundry.com/products/nuke)
 
 ## How do I install these formulae?
 
@@ -19,7 +19,7 @@ tap "sisoe24/vfx"
 brew "<formula>"
 ```
 
-## Example
+Example:
 
 ```bash
 brew tap sisoe24/vfx
